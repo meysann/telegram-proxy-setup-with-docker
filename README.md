@@ -1,8 +1,3 @@
-# telegram-proxy-setup-with-docker
-
-
-
-
 # Telegram MTProto Proxy with Docker
 
 This guide provides a comprehensive walkthrough for setting up a secure and easy-to-manage Telegram MTProto proxy using the official Docker image. This is the most reliable method as it avoids compilation issues and dependency conflicts.
